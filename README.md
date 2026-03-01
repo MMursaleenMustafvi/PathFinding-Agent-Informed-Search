@@ -1,5 +1,4 @@
 #PathFinding-Agent Overview
-
 A visual, grid-based pathfinding simulator that demonstrates A* and Greedy Best-First Search (GBFS) algorithms. The system supports real-time obstacle changes, automatically recalculating paths as the environment evolves.
 
 Features
